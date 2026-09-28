@@ -1,4 +1,4 @@
-# BA26-01 | Energy Demand Forecaster
+ Energy Demand Forecaster
 
 ![Logo](./report/General/Logo.png "Project Logo")
 
@@ -8,10 +8,6 @@ This project explores **electricity load forecasting** using hourly time series 
 
 The work is documented as an academic term paper following the **Knowledge Discovery in Databases (KDD)** process. It covers the full analytical workflow from domain understanding and preprocessing to feature engineering, model development, evaluation, deployment, and monitoring. A fully working **Streamlit application** and a **portable offline bundle** (macOS / Windows) ship alongside the report.
 
-## Repository Access
-
-- **GitHub:** [Wings-hub/BA26-01-Time-Series](https://github.com/Wings-hub/BA26-01-Time-Series.git)
-- **Clone:** `git clone https://github.com/Wings-hub/BA26-01-Time-Series.git`
 
 Use the relative paths documented below so collaborators on any operating system can locate the same files consistently.
 

@@ -1,7 +1,5 @@
  Energy Demand Forecaster
 
-![Logo](./report/General/Logo.png "Project Logo")
-
 ## Project Overview
 
 This project explores **electricity load forecasting** using hourly time series data and compares a classical statistical baseline with a deep-learning approach. The goal is to generate a **30-day forecast horizon (720 hours)** and evaluate whether an **LSTM** model can outperform a traditional **SARIMA** model for medium-term demand forecasting.
